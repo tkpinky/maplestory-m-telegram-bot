@@ -1,0 +1,7 @@
+# MapleStory M Telegram Bot - Directories
+
+This file ensures the following directories are tracked:
+
+- `handlers/` - Event handlers for bot callbacks
+- `game_logic/` - Game mechanics modules
+- `utils/` - Utility functions
